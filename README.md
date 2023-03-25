@@ -1,6 +1,6 @@
 ---
 
-INTERESES PERSONALES 🔥
+INTERESES PERSONALES ⚡
 
 ---
 
@@ -43,7 +43,7 @@ INTERESES PERSONALES 🔥
 	|	|      |          |-- OPENCV 🌱
 	|	|      |
 	|	|      |
-	|	|      |--- ENGINE3D 
+	|	|      |--- ENGINE3D 🌱
 	|	|      |        |
 	|	|      |        |-- REACTPHY3D 🌱
 	|	|
@@ -59,7 +59,7 @@ INTERESES PERSONALES 🔥
 	|	|      |--- LIBP2P 🌱
 	|	|
 	|	|
-	|	|--- DATABASE
+	|	|--- DATABASE 🌱
 	|	|	|
 	|	|	|--- REDIS 🌱
 	|	|	|
