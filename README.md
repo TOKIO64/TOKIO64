@@ -9,95 +9,75 @@
 
 ### Invocando palabras desde las sombras componiendo rimas que explotan cual bomba para todo aquel que me nombra
 
-####
-
-    |--- ARCO64
-    |	      |
-    |       |
-    |       |-- DART
-    |       |    |
-    |       |    |-- FLUTTER
-    |		    |	   |		  |
-    |		    |	   |		  |-- CIMPELLER
-    |		    |
-    |       |
-    |       |-- C - C++
-    |	      |	    |
-    |	      |	    |-- CMAKE
-    |	      |	    |
-    |	      |	    |-- GSTREAMER
-    |	      |	    |
-    |		    |	    |-- ENGINE3D
-    |		    |	    |		   |
-    |		    |	    |	     |-- CUARZO
-    |		    |	    |		   |
-    |		    |	    |		   |-- FLUTSONI
-	  |       |     |
-    |			  |     |-- INTELIGENCIA
-    |       |	    |        |
-    |		    |	    |		     |-- NEURAL
-    |		    |	    |		     |
-    |		    |	    |		     |-- SECUOLLA
-    |		    |	    |		     |
-    |		    |	    |		     |-- OPENCV
-    |		    |
-    |       |
-    |	      |-- CGLM
-    |			  |
-    |			  |-- OCL
-    |	  	  |
-    |	  	  |-- IPC
-    |			  |
-    |			  |-- OPENMP
-    |	      |
-    |			  |-- OACC
-    |       |
-    |		    |-- FLAT0
-    |		    |
-    |       |-- DATOS
-    |       |     |
-    |       |     |-- SURREALDB
-    |       |     |
-    |       |     |-- REDIS
-    |       |
-    |       |
-    |       |-- RUST
-    |       |     |
-    |       |     |-- AXUM
-    |		    |	    |
-    |		    |	    |-- LIBP2P
-    |       |     |
-    |       |     |-- MEILISEARCH
-    |       |     |
-    |       |     |-- CALLYSTO
-    |       |
-    |       |
-    |       |-- DEVOPS
-    |       |     |
-    |       |     |-- SHELL
-    |       |     |
-    |       |     |-- NGINX
-    |       |
-    |       |
-    |       |-- GENERALES
-    | 	    |	     |
-    |       |      |-- RPC
-    |       |      |
-    |       |      |-- GRAPHQL
-    |       |      |
-    |       |      |-- REACTIVEX
+	|--- LINUX64
+	|	|
+	|	|
+	|	|--- DART
+	|	|      |
+	|	|      |--- FLUTTER
+	|	|
+	|	|
+	|	|--- C - C++
+	|	|      |
+	|	|      |--- OPENCL
+	|	|      |
+	|       |      |--- MPI
+	|	|      |
+	|	|      |--- OPENMP
+	|	|      |
+	|	|      |--- GESTREAMER
+	|	|      |
+	|	|      |--- OACC
+	|	|      |
+	|	|      |
+	|	|      |--- INTELIGENCIA
+	|	|      |          |
+	|	|      |          |-- ROOOT
+	|	|      |          |
+	|	|      |          |-- OPENCV
+	|	|      |          |
+	|	|      |          |-- OPEN2
+	|	|      |
+	|	|      |
+	|	|      |--- ENGINE3D
+	|	|      |        |
+	|	|      |        |-- REACTPHY3D
+	|	|
+	|	|
+	|	|--- RUSTC
+	|	|      |
+	|	|      |--- AXUM
+	|	|      |
+	|	|      |--- MEILISEARCH
+	|	|      |
+	|	|      |--- CALLYSTO
+	|	|      |
+	|	|      |--- LIBP2P
+	|	|
+	|	|
+	|	|--- DATABASE
+	|	|	|
+	|	|	|--- REDIS
+	|	|	|
+	|	|	|--- SURREALDB
+	|	|
+	|	|
+	|	|--- GENERAL
+	|	|	|
+	|	|	|--- SHELL
+	|	|	|
+	|	|	|--- CMAKE
+	|	|	|
+	|	|	|--- NGINX
+	|	|       |
+	|	|       |--- FASM64
 
 
+Mis intereses personasles :
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📐 Matematicas ...
+- ⚗️ Fisica ...
+- 🖥 Computacion ...
+- 📡 Redes ...
+- 🔗 Blockchain ...
 
