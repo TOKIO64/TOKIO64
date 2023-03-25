@@ -13,67 +13,67 @@ INTERESES PERSONALES
 
 ---
 
-	|--- LINUX64
+	|--- LINUX64 🌱
 	|	|
 	|	|
-	|	|--- DART
+	|	|--- DART 🌱
 	|	|      |
-	|	|      |--- FLUTTER
+	|	|      |--- FLUTTER 🌱
 	|	|
 	|	|
-	|	|--- C - C++
+	|	|--- C - C++ 🌱
 	|	|      |
-	|	|      |--- OPENCL
+	|	|      |--- OPENCL 🌱
 	|	|      |
-	|       |      |--- MPI
+	|       |      |--- MPI 🌱
 	|	|      |
-	|	|      |--- OPENMP
+	|	|      |--- OPENMP 🌱
 	|	|      |
-	|	|      |--- GESTREAMER
+	|	|      |--- GESTREAMER 🌱
 	|	|      |
-	|	|      |--- OACC
+	|	|      |--- OACC 🌱
 	|	|      |
 	|	|      |
 	|	|      |--- INTELIGENCIA
 	|	|      |          |
-	|	|      |          |-- ROOOT
+	|	|      |          |-- ROOOT 🌱
 	|	|      |          |
-	|	|      |          |-- OPENCV
+	|	|      |          |-- OPEN2 🌱
 	|	|      |          |
-	|	|      |          |-- OPEN2
+	|	|      |          |-- OPENCV 🌱
 	|	|      |
 	|	|      |
-	|	|      |--- ENGINE3D
+	|	|      |--- ENGINE3D 
 	|	|      |        |
-	|	|      |        |-- REACTPHY3D
+	|	|      |        |-- REACTPHY3D 🌱
 	|	|
 	|	|
-	|	|--- RUSTC
+	|	|--- RUSTC 🌱
 	|	|      |
-	|	|      |--- AXUM
+	|	|      |--- AXUM 🌱
 	|	|      |
-	|	|      |--- MEILISEARCH
+	|	|      |--- MEILISEARCH 🌱
 	|	|      |
-	|	|      |--- CALLYSTO
+	|	|      |--- CALLYSTO 🌱
 	|	|      |
-	|	|      |--- LIBP2P
+	|	|      |--- LIBP2P 🌱
 	|	|
 	|	|
 	|	|--- DATABASE
 	|	|	|
-	|	|	|--- REDIS
+	|	|	|--- REDIS 🌱
 	|	|	|
-	|	|	|--- SURREALDB
+	|	|	|--- SURREALDB 🌱
 	|	|
 	|	|
 	|	|--- GENERAL
 	|	|	|
-	|	|	|--- SHELL
+	|	|	|--- SHELL 🌱
 	|	|	|
-	|	|	|--- CMAKE
+	|	|	|--- CMAKE 🌱
 	|	|	|
-	|	|	|--- NGINX
+	|	|	|--- NGINX 🌱
 	|	|       |
-	|	|       |--- FASM64
+	|	|       |--- FASM64 🌱
 
 ---
