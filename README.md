@@ -73,7 +73,9 @@ INTERESES PERSONALES ⚡
 	|	|	|--- CMAKE 🌱
 	|	|	|
 	|	|	|--- NGINX 🌱
-	|	|       |
-	|	|       |--- FASM64 🌱
+	|	|	|
+	|	|	|--- VHDL 🌱
+	|	|	|
+	|	|	|--- FLAT64 🌱
 
 ---
