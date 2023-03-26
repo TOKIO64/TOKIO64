@@ -80,4 +80,4 @@ INTERESES PERSONALES ⚡
 	|	|	|--- FLAT64 🌱
 
 ---
-<img src="https://c4.wallpaperflare.com/wallpaper/943/424/1010/vagabond-takehiko-inoue-wallpaper-preview.jpg" width="1100" height="600" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Julia-Menge.png/1920px-Julia-Menge.png" width="1100" height="600" >
