@@ -80,6 +80,3 @@ INTERESES PERSONALES ⚡
 	|	|	|--- FLAT64 🌱
 
 ---
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Julia-Menge.png/1920px-Julia-Menge.png" width="1100" height="550" >
-
