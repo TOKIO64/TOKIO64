@@ -80,4 +80,4 @@ INTERESES PERSONALES ⚡
 	|	|	|--- FLAT64 🌱
 
 ---
-<img src="https://i.pinimg.com/564x/8d/92/ae/8d92ae0509d1c6330961636a3d86d54d.jpg" width="500" height="500">
+<img src="https://c4.wallpaperflare.com/wallpaper/943/424/1010/vagabond-takehiko-inoue-wallpaper-preview.jpg" width="1100" height="600" >
