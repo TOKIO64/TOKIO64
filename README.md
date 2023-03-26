@@ -78,5 +78,3 @@ INTERESES PERSONALES ⚡
 	|	|	|--- VHDL 🌱
 	|	|	|
 	|	|	|--- FLAT64 🌱
-
----
