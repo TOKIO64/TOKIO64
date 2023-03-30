@@ -51,9 +51,12 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- AXUM 🌱
 	|	|      |
-	|	|      |--- MEILISEARCH 🌱
-	|	|      |
 	|	|      |--- LIBP2P 🌱
+	|	|      |
+	|	|      |--- BUSCADOR
+	|	|      |	|
+	|	|      |	|
+	|	|      |	|--- MEILISEARCH 🌱
 	|	|
 	|	|
 	|	|-- ANALISIS
