@@ -30,14 +30,12 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- OPENMP 🌱
 	|	|      |
-	|	|      |--- GESTREAMER 🌱
+	|	|      |--- GSTREAMER 🌱
 	|	|      |
 	|	|      |--- OACC 🌱
 	|	|      |
 	|	|      |
 	|	|      |--- INTELIGENCIA
-	|	|      |          |
-	|	|      |          |-- ROOOT 🌱
 	|	|      |          |
 	|	|      |          |-- OPEN2 🌱
 	|	|      |          |
@@ -47,6 +45,8 @@ INTERESES PERSONALES ⚡
 	|	|      |--- ENGINE3D 🌱
 	|	|      |        |
 	|	|      |        |-- REACTPHY3D 🌱
+	|	|      |	|
+	|	|      |	|-- CGLM 🌱
 	|	|
 	|	|
 	|	|--- RUSTC 🌱
@@ -55,9 +55,14 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- MEILISEARCH 🌱
 	|	|      |
-	|	|      |--- CALLYSTO 🌱
-	|	|      |
 	|	|      |--- LIBP2P 🌱
+	|	|
+	|	|
+	|	|-- ANALISIS
+	|	|	|
+	|	|	|--- ROOT 🌱
+	|	|	|
+	|	|	|--- CALLYSTO 🌱
 	|	|
 	|	|
 	|	|--- DATABASE 🌱
