@@ -42,9 +42,9 @@ INTERESES PERSONALES ⚡
 	|	|      |          |-- OPENCV 🌱
 	|	|      |
 	|	|      |
-	|	|      |--- ENGINE3D 🌱
-	|	|      |        |
-	|	|      |	|--- T3
+	|	|      |--- MOTOR 🌱
+	|	|      |      |
+	|	|      |      |--- T3 🌱
 	|	|
 	|	|
 	|	|--- RUSTC 🌱
