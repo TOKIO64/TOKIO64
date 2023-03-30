@@ -44,9 +44,7 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- ENGINE3D 🌱
 	|	|      |        |
-	|	|      |        |-- REACTPHY3D 🌱
-	|	|      |	|
-	|	|      |	|-- CGLM 🌱
+	|	|      |	|--- T3
 	|	|
 	|	|
 	|	|--- RUSTC 🌱
@@ -79,7 +77,5 @@ INTERESES PERSONALES ⚡
 	|	|	|--- CMAKE 🌱
 	|	|	|
 	|	|	|--- NGINX 🌱
-	|	|	|
-	|	|	|--- VHDL 🌱
 	|	|	|
 	|	|	|--- FLAT64 🌱
