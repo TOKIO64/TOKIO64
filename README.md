@@ -38,8 +38,6 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- OPENMP 🌱
 	|	|      |
-	|	|      |--- GSTREAMER 🌱
-	|	|      |
 	|	|      |--- OACC 🌱
 	|	|      |
 	|	|      |
