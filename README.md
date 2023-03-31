@@ -20,6 +20,14 @@ INTERESES PERSONALES ⚡
 	|	|--- DART 🌱
 	|	|      |
 	|	|      |--- FLUTTER 🌱
+	|	|      |       |
+	|	|      |       |--- MATERIAL3
+	|	|      |       |
+	|	|      |       |--- VIDEOPLAYER / AUDIOPLAYER
+	|	|      |       |
+	|	|      |       |--- ENGINE3D
+	|	|      |       |       |
+	|	|      |       |       |--- T3
 	|	|
 	|	|
 	|	|--- C - C++ 🌱
@@ -40,11 +48,6 @@ INTERESES PERSONALES ⚡
 	|	|      |          |-- OPEN2 🌱
 	|	|      |          |
 	|	|      |          |-- OPENCV 🌱
-	|	|      |
-	|	|      |
-	|	|      |--- MOTOR 🌱
-	|	|      |      |
-	|	|      |      |--- T3 🌱
 	|	|
 	|	|
 	|	|--- RUSTC 🌱
