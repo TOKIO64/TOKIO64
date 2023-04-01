@@ -34,9 +34,7 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- OPENCL 🌱
 	|	|      |
-	|       |      |--- MPI 🌱
-	|	|      |
-	|	|      |--- OPENMP 🌱
+	|       |      |--- OPENMP / MPI 🌱
 	|	|      |
 	|	|      |--- OACC 🌱
 	|	|      |
@@ -61,8 +59,6 @@ INTERESES PERSONALES ⚡
 	|	|
 	|	|
 	|	|-- ANALISIS
-	|	|	|
-	|	|	|--- ROOT 🌱
 	|	|	|
 	|	|	|--- CALLYSTO 🌱
 	|	|
