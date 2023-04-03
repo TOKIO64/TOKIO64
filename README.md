@@ -50,8 +50,6 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- AXUM 🌱
 	|	|      |
-	|	|      |--- LIBP2P 🌱
-	|	|      |
 	|	|      |--- BUSCADOR
 	|	|      |	|
 	|	|      |	|
