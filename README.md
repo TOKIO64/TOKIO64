@@ -74,5 +74,3 @@ INTERESES PERSONALES ⚡
 	|	|	|--- CMAKE 🌱
 	|	|	|
 	|	|	|--- NGINX 🌱
-	|	|	|
-	|	|	|--- FLAT64 🌱
