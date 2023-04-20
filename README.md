@@ -51,7 +51,6 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- BUSCADOR
 	|	|      |	|
-	|	|      |	|
 	|	|      |	|--- MEILISEARCH 🌱
 	|	|
 	|	|
@@ -68,8 +67,6 @@ INTERESES PERSONALES ⚡
 	|	|
 	|	|
 	|	|--- GENERAL
-	|	|	|
-	|	|	|--- SHELL 🌱
 	|	|	|
 	|	|	|--- CMAKE 🌱
 	|	|	|
