@@ -62,6 +62,8 @@ INTERESES PERSONALES ⚡
 	|	|      |      |--- LEAF 🌱
 	|	|      |      |
 	|	|      |      |--- ARRAYFIRE 🌱
+	|	|      |      |
+	|	|      |      |--- RUST_NDARRAY
 	|	|
 	|	|
 	|	|
