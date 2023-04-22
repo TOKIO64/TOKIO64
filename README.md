@@ -30,7 +30,7 @@ INTERESES PERSONALES ⚡
 	|	|
 	|       |
 	|       |
-	|	|--- Lenguaje C 🌱
+	|	|--- LENGUAJE C 🌱
 	|	|        |
 	|	|        |--- OPENMP / MPI 🌱
 	|	|        |
