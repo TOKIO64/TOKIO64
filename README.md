@@ -26,44 +26,50 @@ INTERESES PERSONALES ⚡
 	|	|      |       |
 	|	|      |       |--- AUDIOPLAYER
 	|	|      |       |
+	|	|      |       |--- F3DO
+	|	|      |       |
 	|	|      |       |--- FLAME
 	|	|
 	|       |
 	|       |
 	|	|--- LENGUAJE C 🌱
 	|	|        |
-	|	|        |--- OPENMP 🌱
-	|	|	 |
-	|	|	 |--- MPI 🌱
+	|	|        |--- KERNUX
 	|	|        |
-	|	|        |--- OACC 🌱
+	|	|        |--- CMAKE
 	|	|
 	|	|
 	|	|
 	|	|--- RUSTC 🌱
 	|	|      |
-	|	|      |--- COLENQUIMA 🌱
 	|	|      |
-	|	|      |--- TOKIO 🌱
-	|	|      |
-	|	|      |
-	|	|      |--- BUSCADOR
+	|	|      |--- GENERALES
+	|	|      |       |
+	|	|      |       |--- COLENQUIMA : (GPU) 
+	|	|      |       |
+	|	|      |       |--- RAYON : (CPU)
+	|	|      |       |
+	|	|      |       |--- CALLYSTO
 	|	|      |       |
 	|	|      |       |--- MEILISEARCH 🌱
-	|	|      |
-	|	|      |
-	|	|      |--- ANALISIS
 	|	|      |       |
-	|	|      |       |--- CALLYSTO 🌱
+	|	|      |       |--- TOKIO
+	|	|      |       |
+	|	|      |       |--- MPI
+	|	|      |       |
+	|	|      |       |--- CADDY
 	|	|      |
 	|	|      |
 	|	|      |--- HSIA
 	|	|      |      |
 	|	|      |      |--- LEAF 🌱
 	|	|      |      |
+	|	|      |      |--- NDARRAY 🌱
+	|	|      |      |
+	|	|      |      |
 	|	|      |      |--- ARRAYFIRE 🌱
 	|	|      |      |
-	|	|      |      |--- RUST_NDARRAY
+	|	|      |      |--- NALGEBRA
 	|	|
 	|	|
 	|	|
@@ -84,11 +90,4 @@ INTERESES PERSONALES ⚡
 	|	|	 |--- REDIS 🌱
 	|	|	 |
 	|	|        |--- SURREALDB 🌱
-	|	|
-	|	|
-	|	|--- GENERAL
-	|	|      |
-	|	|      |--- CMAKE 🌱
-	|	|      |
-	|	|      |--- NGINX 🌱
  ---
