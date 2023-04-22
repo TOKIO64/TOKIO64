@@ -20,23 +20,21 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- FLUTTER 🌱
 	|	|      |       |
-	|	|      |       |--- MATERIAL3
+	|	|      |       |--- MATERIAL3 🌱
 	|	|      |       |
-	|	|      |       |--- VIDEOPLAYER
+	|	|      |       |--- VIDEOPLAYER 🌱
 	|	|      |       |
-	|	|      |       |--- AUDIOPLAYER
+	|	|      |       |--- AUDIOPLAYER 🌱
 	|	|      |       |
-	|	|      |       |--- F3DO
+	|	|      |       |--- F3DO 🌱
 	|	|      |       |
-	|	|      |       |--- FLAME
+	|	|      |       |--- FLAME 🌱
 	|	|
 	|       |
 	|       |
 	|	|--- LENGUAJE C 🌱
 	|	|        |
-	|	|        |--- KERNUX
-	|	|        |
-	|	|        |--- CMAKE
+	|	|        |--- KERNUX 🌱
 	|	|
 	|	|
 	|	|
@@ -45,19 +43,19 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- GENERALES
 	|	|      |       |
-	|	|      |       |--- COLENQUIMA : (GPU) 
+	|	|      |       |--- COLENQUIMA : (GPU) 🌱
 	|	|      |       |
-	|	|      |       |--- RAYON : (CPU)
+	|	|      |       |--- RAYON : (CPU) 🌱
 	|	|      |       |
-	|	|      |       |--- CALLYSTO
+	|	|      |       |--- CALLYSTO 🌱
 	|	|      |       |
 	|	|      |       |--- MEILISEARCH 🌱
 	|	|      |       |
-	|	|      |       |--- TOKIO
+	|	|      |       |--- TOKIO 🌱
 	|	|      |       |
-	|	|      |       |--- MPI
+	|	|      |       |--- MPI 🌱
 	|	|      |       |
-	|	|      |       |--- CADDY
+	|	|      |       |--- CADDY 🌱
 	|	|      |
 	|	|      |
 	|	|      |--- HSIA
@@ -69,7 +67,7 @@ INTERESES PERSONALES ⚡
 	|	|      |      |
 	|	|      |      |--- ARRAYFIRE 🌱
 	|	|      |      |
-	|	|      |      |--- NALGEBRA
+	|	|      |      |--- NALGEBRA 🌱
 	|	|
 	|	|
 	|	|
