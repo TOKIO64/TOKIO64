@@ -40,11 +40,11 @@ INTERESES PERSONALES ⚡
 	|	      |      |--- BUSCADOR
 	|	      |      |	     |
 	|	      |      |	     |--- MEILISEARCH 🌱
-	|	      |
-	|	      |
-	|	      |-- ANALISIS
-	|	      |	      |
-	|	      |	      |--- CALLYSTO 🌱
+	|	      |	     |
+	|	      |	     |
+	|	      |	     |-- ANALISIS
+	|	      |	      	    |
+	|	      |	            |--- CALLYSTO 🌱
 	|	      |
 	|	      |
 	|	      |--- DATABASE 🌱
