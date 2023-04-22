@@ -23,11 +23,11 @@ INTERESES PERSONALES ⚡
 	|	      |      |       |--- MATERIAL3
 	|	      |      |       |
 	|	      |      |       |--- VIDEOPLAYER / AUDIOPLAYER
-	|       |
+	|	      |
 	|	      |
 	|	      |--- Lenguaje C 🌱
 	|	      |        |
-	|       |        |--- OPENMP / MPI 🌱
+	|	      |        |--- OPENMP / MPI 🌱
 	|	      |        |
 	|	      |        |--- OACC 🌱
 	|	      |
