@@ -43,9 +43,9 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- GENERALES
 	|	|      |       |
-	|	|      |       |--- COLENQUIMA : (GPU) 🌱
+	|	|      |       |--- COLENQUIMA : GPU 🌱
 	|	|      |       |
-	|	|      |       |--- RAYON : (CPU) 🌱
+	|	|      |       |--- RAYON : CPU 🌱
 	|	|      |       |
 	|	|      |       |--- CALLYSTO 🌱
 	|	|      |       |
