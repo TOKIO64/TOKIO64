@@ -35,6 +35,8 @@ INTERESES PERSONALES ⚡
 	|	|--- LENGUAJE C 🌱
 	|	|        |
 	|	|        |--- KERNUX 🌱
+	|	|	 |
+	|	|        |--- CMAKE / NINJA
 	|	|
 	|	|
 	|	|
