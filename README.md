@@ -32,7 +32,9 @@ INTERESES PERSONALES ⚡
 	|       |
 	|	|--- LENGUAJE C 🌱
 	|	|        |
-	|	|        |--- OPENMP / MPI 🌱
+	|	|        |--- OPENMP 🌱
+	|	|	 |
+	|	|	 |--- MPI 🌱
 	|	|        |
 	|	|        |--- OACC 🌱
 	|	|
@@ -40,9 +42,9 @@ INTERESES PERSONALES ⚡
 	|	|
 	|	|--- RUSTC 🌱
 	|	|      |
-	|	|      |--- COLENQUIMA
+	|	|      |--- COLENQUIMA 🌱
 	|	|      |
-	|	|      |--- TOKIO
+	|	|      |--- TOKIO 🌱
 	|	|      |
 	|	|      |
 	|	|      |--- BUSCADOR
@@ -57,21 +59,21 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- HSIA
 	|	|      |      |
-	|	|      |      |--- LEAF
+	|	|      |      |--- LEAF 🌱
 	|	|      |      |
-	|	|      |      |--- ARRAYFIRE
+	|	|      |      |--- ARRAYFIRE 🌱
 	|	|
 	|	|
 	|	|
 	|	|--- BACKEND
 	|	|	|
-	|	|	|--- AXUM
+	|	|	|--- AXUM 🌱
 	|	|	|
-	|	|	|--- NYM
+	|	|	|--- NYM 🌱
 	|	|	|
-	|	|	|--- ARTI
+	|	|	|--- ARTI 🌱
 	|	|	|
-	|	|	|--- I2P
+	|	|	|--- I2P 🌱
 	|	|
 	|	|
 	|	|
