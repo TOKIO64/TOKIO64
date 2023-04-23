@@ -33,6 +33,8 @@ INTERESES PERSONALES ⚡
 	|	|      |       |--- RXDART 🌱
 	|	|      |       |
 	|	|      |       |--- ASYNC 🌱
+	|	|      |       |
+	|	|      |       |--- ISOLATE 🌱
 	|	|
 	|       |
 	|       |
