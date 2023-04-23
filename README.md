@@ -29,6 +29,10 @@ INTERESES PERSONALES ⚡
 	|	|      |       |--- F3DO 🌱
 	|	|      |       |
 	|	|      |       |--- FLAME 🌱
+	|	|      |       |
+	|	|      |       |--- RXDART 🌱
+	|	|      |       |
+	|	|      |       |--- ASYNC 🌱
 	|	|
 	|       |
 	|       |
@@ -36,7 +40,7 @@ INTERESES PERSONALES ⚡
 	|	|        |
 	|	|        |--- KERNUX 🌱
 	|	|	 |
-	|	|        |--- CMAKE / NINJA
+	|	|        |--- CMAKE / NINJA 🌱
 	|	|
 	|	|
 	|	|
@@ -56,6 +60,8 @@ INTERESES PERSONALES ⚡
 	|	|      |       |--- TOKIO 🌱
 	|	|      |       |
 	|	|      |       |--- MPI 🌱
+	|	|      |       |
+	|	|      |       |--- RXRUST 🌱
 	|	|      |       |
 	|	|      |       |--- CADDY 🌱
 	|	|      |
