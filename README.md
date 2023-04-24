@@ -40,6 +40,27 @@ INTERESES PERSONALES ⚡
 	|	|--- LENGUAJE C 🌱
 	|	|        |
 	|	|        |--- KERNUX 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBC 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBUDEV 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBNETFILTER 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBPCAP 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBNIDS 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBDNET 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBNET 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBZ 🌱
+	|	|	 |
+	|	|	 |
+	|	|	 |--- GSTREAMER 🌱
+	|	|	 |
+	|	|	 |--- SPICE 🌱
 	|	|	 |
 	|	|        |--- CMAKE / NINJA 🌱
 	|	|
@@ -65,18 +86,20 @@ INTERESES PERSONALES ⚡
 	|	|      |       |--- RXRUST 🌱
 	|	|      |       |
 	|	|      |       |--- CADDY 🌱
+	|	|      |       |
+	|	|      |       |--- PARITY-SUBSTRATE 🌱
 	|	|      |
 	|	|      |
-	|	|      |--- HSIA
-	|	|      |      |
-	|	|      |      |--- LEAF 🌱
-	|	|      |      |
-	|	|      |      |--- NDARRAY 🌱
-	|	|      |      |
-	|	|      |      |
-	|	|      |      |--- ARRAYFIRE 🌱
-	|	|      |      |
-	|	|      |      |--- NALGEBRA 🌱
+	|	|      |--- SIA
+	|	|      |     |
+	|	|      |     |--- LEAF 🌱
+	|	|      |     |
+	|	|      |     |--- NDARRAY 🌱
+	|	|      |     |
+	|	|      |     |
+	|	|      |     |--- ARRAYFIRE 🌱
+	|	|      |     |
+	|	|      |     |--- NALGEBRA 🌱
 	|	|
 	|	|
 	|	|
@@ -92,9 +115,34 @@ INTERESES PERSONALES ⚡
 	|	|
 	|	|
 	|	|
-	|	|--- DATABASE 🌱
+	|	|--- DATABASE
 	|	|	 |
 	|	|	 |--- REDIS 🌱
 	|	|	 |
 	|	|        |--- SURREALDB 🌱
+	|	|
+	|	|
+	|	|
+	|	|--- VIRTUALIZACION
+	|	|	   |
+	|	|	   |--- RVMM 🌱
+	|	|	   |
+	|	|	   |--- KVM 🌱
+ 	|	|
+	|	|
+	|	|
+	|	|--- DEPURADOR
+	|	|	 |
+	|	|	 |--- ZYDIS 🌱
+	|	|	 |
+	|	|	 |--- ITRACE 🌱
+	|	|	 |
+	|	|	 |--- GDB 🌱
+	|	|	 |
+	|	|	 |--- LIBMEM 🌱
+	|	|	 |
+	|	|	 |--- YARA 🌱
+	|	|	 |
+	|	|	 |--- LIME 🌱
+
  ---
