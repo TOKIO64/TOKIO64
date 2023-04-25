@@ -57,13 +57,13 @@ INTERESES PERSONALES ⚡
 	|	|	 |	 |
 	|	|	 |	 |--- LIBZ 🌱
 	|	|	 |	 |
-	|	|	 |	 |--- LIBBPF
+	|	|	 |	 |--- LIBBPF 🌱
 	|	|	 |	 |
-	|	|	 |	 |--- LIBHIDE
+	|	|	 |	 |--- LIBHIDE 🌱
 	|	|	 |	 |
-	|	|	 |	 |--- LIBINJECT
+	|	|	 |	 |--- LIBINJECT 🌱
 	|	|	 |	 |
-	|	|	 |	 |--- LIBINPUT
+	|	|	 |	 |--- LIBINPUT 🌱
 	|	|	 |
 	|	|	 |
 	|	|	 |--- GSTREAMER 🌱
@@ -97,7 +97,7 @@ INTERESES PERSONALES ⚡
 	|	|      |       |
 	|	|      |       |--- PARITY-SUBSTRATE 🌱
 	|	|      |       |
-	|	|      |       |--- RING
+	|	|      |       |--- RING 🌱 
 	|	|      |
 	|	|      |
 	|	|      |--- SIA
@@ -155,8 +155,8 @@ INTERESES PERSONALES ⚡
 	|	|	 |
 	|	|	 |--- LIME 🌱
 	|	|	 |
-	|	|	 |--- PTRACE
+	|	|	 |--- PTRACE 🌱
 	|	|	 |
-	|	|	 |--- LD-PRELOAD
+	|	|	 |--- LD-PRELOAD 🌱
 
  ---
