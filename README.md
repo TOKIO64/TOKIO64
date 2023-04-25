@@ -56,6 +56,14 @@ INTERESES PERSONALES ⚡
 	|	|	 |	 |--- LIBNET 🌱
 	|	|	 |	 |
 	|	|	 |	 |--- LIBZ 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBBPF
+	|	|	 |	 |
+	|	|	 |	 |--- LIBHIDE
+	|	|	 |	 |
+	|	|	 |	 |--- LIBINJECT
+	|	|	 |	 |
+	|	|	 |	 |--- LIBINPUT
 	|	|	 |
 	|	|	 |
 	|	|	 |--- GSTREAMER 🌱
@@ -88,6 +96,8 @@ INTERESES PERSONALES ⚡
 	|	|      |       |--- CADDY 🌱
 	|	|      |       |
 	|	|      |       |--- PARITY-SUBSTRATE 🌱
+	|	|      |       |
+	|	|      |       |--- RING
 	|	|      |
 	|	|      |
 	|	|      |--- SIA
@@ -144,5 +154,9 @@ INTERESES PERSONALES ⚡
 	|	|	 |--- YARA 🌱
 	|	|	 |
 	|	|	 |--- LIME 🌱
+	|	|	 |
+	|	|	 |--- PTRACE
+	|	|	 |
+	|	|	 |--- LD-PRELOAD
 
  ---
