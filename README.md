@@ -82,6 +82,8 @@ INTERESES PERSONALES ⚡
 	|	|        |--- CMAKE / NINJA 🌱
 	|	|	 |
 	|	|	 |--- RXCPP
+	|	|	 |
+	|	|	 |--- OPEN-MP
 	|	|
 	|	|
 	|	|
