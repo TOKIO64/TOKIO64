@@ -1,15 +1,15 @@
 ---
 
-INTERESES PERSONALES ⚡
+ɪɴᴛᴇʀᴇꜱᴇꜱ ᴘᴇʀꜱᴏɴᴀʟᴇꜱ ⚡
 
 ---
 
-- MATEMATICAS
-- FISICA
-- REDES
-- SISTEMAS
-- SIA
-- MALWARE
+- ᴍᴀᴛᴇᴍᴀᴛɪᴄᴀꜱ
+- ꜰɪꜱɪᴄᴀ
+- ʀᴇᴅᴇꜱ
+- ꜱɪꜱᴛᴇᴍᴀꜱ
+- ꜱɪᴀ
+- ᴍᴀʟᴡᴀʀᴇ
 ---
 
 	|--- LINUX64 🌱
