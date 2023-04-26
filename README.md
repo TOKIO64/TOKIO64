@@ -1,16 +1,5 @@
 ---
 
-INTERESES PERSONALES ⚡
-
----
-- MATEMATICAS
-- FISICA
-- REDES
-- SISTEMAS
-- SIA
-- MALWARE
----
-
 	|--- LINUX64 🌱
 	|	|
 	|	|
