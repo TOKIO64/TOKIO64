@@ -81,7 +81,7 @@ INTERESES PERSONALES ⚡
 	|	|	 |
 	|	|        |--- CMAKE / NINJA 🌱
 	|	|	 |
-	|	|	 |--- RXCPP 🌱
+	|	|	 |--- REACTIVE-C 🌱
 	|	|	 |
 	|	|	 |--- OPEN-MP 🌱
 	|	|	 |
@@ -94,9 +94,9 @@ INTERESES PERSONALES ⚡
 	|	|      |
 	|	|      |--- GENERALES
 	|	|      |       |
-	|	|      |       |--- COLENQUIMA : GPU 🌱
+	|	|      |       |--- COLENQUIMA 🌱
 	|	|      |       |
-	|	|      |       |--- RAYON : CPU 🌱
+	|	|      |       |--- RAYON 🌱
 	|	|      |       |
 	|	|      |       |--- CALLYSTO 🌱
 	|	|      |       |
@@ -167,7 +167,7 @@ INTERESES PERSONALES ⚡
 	|	|	 |
 	|	|	 |--- LIME 🌱
 	|	|        |
-	|	|	 |--- NOM
+	|	|	 |--- NOM 🌱
 	|	|	 |
 	|	|	 |--- FASMG 🌱
 	|	|
@@ -175,8 +175,8 @@ INTERESES PERSONALES ⚡
 	|	|
 	|	|--- SATELITES
 	|	|	|
-	|	|	|--- MAXAR
+	|	|	|--- MAXAR 🌱
 	|	|	|
-	|	|	|--- PLANET
+	|	|	|--- PLANET 🌱
 
  ---
