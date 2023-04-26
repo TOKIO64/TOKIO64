@@ -34,11 +34,15 @@ INTERESES PERSONALES ⚡
 	|	|      |       |
 	|	|      |       |--- RXDART 🌱
 	|	|      |       |
-	|	|      |       |--- ASYNC 🌱
-	|	|      |       |
-	|	|      |       |--- ISOLATE 🌱
-	|	|      |       |
-	|	|      |       |--- FLUTTER-DESKTOP-EMBEDDING
+	|	|      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
+	|	|      |
+	|	|      |--- ISOLATE 🌱
+	|	|      |
+	|	|      |--- ASYNC 🌱
+	|	|      |
+	|	|      |--- PROCESS-RUN 🌱
+	|	|      |
+	|	|      |--- WEB-SCRAPPER 🌱
 	|	|
 	|       |
 	|       |
@@ -165,5 +169,13 @@ INTERESES PERSONALES ⚡
 	|	|	 |--- NOM
 	|	|	 |
 	|	|	 |--- FASMG 🌱
+	|	|
+	|	|
+	|	|
+	|	|--- SATELITES
+	|	|	|
+	|	|	|--- MAXAR
+	|	|	|
+	|	|	|--- PLANET
 
  ---
