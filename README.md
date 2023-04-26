@@ -68,7 +68,9 @@ INTERESES PERSONALES ⚡
 	|	|	 |	 |
 	|	|	 |	 |--- LIBINPUT 🌱
 	|	|        |       |
-	|	|        |       |--- LIBMEM
+	|	|        |       |--- LIBMEM 🌱
+	|	|	 |	 |
+	|	|	 |	 |--- LIBUVC (S3) 🌱
 	|	|	 |
 	|	|	 |
 	|	|	 |--- GSTREAMER 🌱
