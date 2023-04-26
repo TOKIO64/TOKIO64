@@ -1,15 +1,14 @@
 ---
 
-ɪɴᴛᴇʀᴇꜱᴇꜱ ᴘᴇʀꜱᴏɴᴀʟᴇꜱ ⚡
+INTERESES PERSONALES ⚡
 
 ---
-
-- ᴍᴀᴛᴇᴍᴀᴛɪᴄᴀꜱ
-- ꜰɪꜱɪᴄᴀ
-- ʀᴇᴅᴇꜱ
-- ꜱɪꜱᴛᴇᴍᴀꜱ
-- ꜱɪᴀ
-- ᴍᴀʟᴡᴀʀᴇ
+- MATEMATICAS
+- FISICA
+- REDES
+- SISTEMAS
+- SIA
+- MALWARE
 ---
 
 	|--- LINUX64 🌱
