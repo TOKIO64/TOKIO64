@@ -58,10 +58,6 @@ INTERESES PERSONALES ⚡
 	|	|	 |	 |
 	|	|	 |	 |--- LIBNET 🌱
 	|	|	 |	 |
-	|	|	 |	 |--- LIBZ 🌱
-	|	|	 |	 |
-	|	|	 |	 |--- LIBBPF 🌱
-	|	|	 |	 |
 	|	|	 |	 |--- LIBHIDE 🌱
 	|	|	 |	 |
 	|	|	 |	 |--- LIBINJECT 🌱
@@ -69,21 +65,22 @@ INTERESES PERSONALES ⚡
 	|	|	 |	 |--- LIBINPUT 🌱
 	|	|        |       |
 	|	|        |       |--- LIBMEM 🌱
-	|	|	 |	 |
-	|	|	 |	 |--- LIBUVC (S3) 🌱
 	|	|	 |
 	|	|	 |
-	|	|	 |--- GSTREAMER 🌱
 	|	|	 |
 	|	|	 |--- SPICE 🌱
 	|	|	 |
 	|	|	 |--- PFRING 🌱
 	|	|	 |
+	|	|	 |--- ZSTD 🌱
+	|	|	 |
 	|	|        |--- CMAKE / NINJA 🌱
 	|	|	 |
-	|	|	 |--- RXCPP
+	|	|	 |--- RXCPP 🌱
 	|	|	 |
-	|	|	 |--- OPEN-MP
+	|	|	 |--- OPEN-MP 🌱
+	|	|	 |
+	|	| 	 |--- MPI 🌱
 	|	|
 	|	|
 	|	|
@@ -110,7 +107,8 @@ INTERESES PERSONALES ⚡
 	|	|      |       |
 	|	|      |       |--- PARITY-SUBSTRATE 🌱
 	|	|      |       |
-	|	|      |       |--- RING 🌱 
+	|	|      |       |--- RING 🌱
+	|	|      |
 	|	|      |
 	|	|      |
 	|	|      |--- SIA
@@ -162,14 +160,10 @@ INTERESES PERSONALES ⚡
 	|	|	 |
 	|	|	 |--- GDB 🌱
 	|	|	 |
-	|	|	 |--- YARA 🌱
-	|	|	 |
 	|	|	 |--- LIME 🌱
-	|	|	 |
-	|	|	 |--- PTRACE 🌱
-	|	|	 |
-	|	|	 |--- LD-PRELOAD 🌱
 	|	|        |
-	|	|	 |--- FASMG
+	|	|	 |--- NOM
+	|	|	 |
+	|	|	 |--- FASMG 🌱
 
  ---
