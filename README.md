@@ -142,14 +142,6 @@
     |       |
     |       |
     |       |
-    |       |--- VIRTUALIZACION
-    |       |          |
-    |       |          |--- QEMU 🌱
-    |       |          |
-    |       |          |--- KATA-CONTAINERS 🌱
-    |       |
-    |       |
-    |       |
     |       |--- DEPURADOR
     |       |        |
     |       |        |--- ZYDIS 🌱
@@ -157,6 +149,10 @@
     |       |        |--- NOM 🌱
     |       |        |
     |       |        |--- FASMG 🌱
+    |       |
+    |       |
+    |       |
+    |       |--- VIRTUALIZACION : QEMU 🌱
     |
     |
     |
