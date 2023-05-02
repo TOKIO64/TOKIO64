@@ -143,8 +143,8 @@
     |       |
     |       |
     |       |--- VIRTUALIZACION
-    |       |	       |
-    |       |	       |--- QEMU 🌱
+    |       |          |
+    |       |          |--- QEMU 🌱
     |       |          |
     |       |          |--- KATA-CONTAINERS 🌱
     |       |
