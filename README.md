@@ -24,6 +24,10 @@
     |       |      |       |--- RXDART 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
+    |       |      |       |
+    |       |      |       |--- FLUTTER-SVG 🌱
+    |       |      |       |
+    |       |      |       |--- SYNCFUSION-CHARTS 🌱
     |       |      |
     |       |      |
     |       |      |--- ISOLATE 🌱
@@ -33,6 +37,8 @@
     |       |      |--- IO 🌱
     |       |      |
     |       |      |--- MATH 🌱
+    |       |      |
+    |       |      |--- UI 🌱
     |       |      |
     |       |      |--- WEB-SCRAPPER 🌱
     |       |      |
