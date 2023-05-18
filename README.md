@@ -23,6 +23,8 @@
     |       |      |       |
     |       |      |       |--- RXDART 🌱
     |       |      |       |
+    |       |      |       |--- PROVIDER 🌱
+    |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
     |       |      |       |
     |       |      |       |--- WINDOW_MANAGER 🌱
