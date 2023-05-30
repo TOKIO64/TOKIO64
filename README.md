@@ -11,6 +11,8 @@
     |       |      |       |
     |       |      |       |--- DRAWING_ANIMATION 🌱
     |       |      |       |
+    |       |      |       |--- FUNVAS 🌱
+    |       |      |       |
     |       |      |       |--- VIDEOPLAYER 🌱
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
