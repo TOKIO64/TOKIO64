@@ -9,6 +9,8 @@
     |       |      |       |
     |       |      |       |--- MATERIAL3 🌱
     |       |      |       |
+    |       |      |       |--- DRAWING_ANIMATION 🌱
+    |       |      |       |
     |       |      |       |--- VIDEOPLAYER 🌱
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
